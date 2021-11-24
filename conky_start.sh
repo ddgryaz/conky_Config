@@ -1,5 +1,5 @@
 #!/bin/bash
 killall conky
 sleep 10s
-conky --config=/home/dmitriy/.conky.conf
+conky --config=/home/USER/.conky.conf
 exit
